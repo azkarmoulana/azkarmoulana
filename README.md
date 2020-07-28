@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there !👋
+
+I'm a full-stack Software Engineer who's highly experienced in designing and developing end-to-end enterprise scale SaaS applications focusing on modern web technologies, performance and cloud computing. I'm also a community organizer, public speaker, and a mentor who actively helps the community to learn new things in technology.
 
 <!--
 **azkarmoulana/azkarmoulana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
