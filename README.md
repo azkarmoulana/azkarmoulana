@@ -24,3 +24,6 @@ Here are some ideas to get you started:
 <a href="https://dev.to/azkar_moulana" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
 </div>
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=azkarmoulana&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azkarmoulana&layout=compact)
