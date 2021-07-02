@@ -15,6 +15,16 @@
 ***
 
 <p align="justify"> Ever since I wondered how can I change the world, I started building software to help the digital transformation and it gives me satisfaction when I write code to solve problems and impact millions of users around the globe. I'm a software engineer who's highly experienced in designing and developing end-to-end large enterprise-scale applications focusing on modern web technologies, performance, and cloud computing. I'm also a community organizer, public speaker, and mentor who actively helps the community to learn new things in technology. </p>
+### My Tech Toolbox 🧰 
+
+<p align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="node-js" width="40"/>&nbsp;&nbsp;
+<img src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" alt="javascript" height="40"/>&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/600px-Typescript_logo_2020.svg.png" alt="typescript" height="40" width="40"/> &nbsp;&nbsp;
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFtrvH4xqVbm-PtE67Q43OLp_Hepyf-u_sjw&usqp=CAU" alt="angular" width="40" />&nbsp;&nbsp;
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOPJvR-kaQcRrzFQikt6g94ZSNoXHAW1vtrDuHuzHROHyf6RWRAiL-Y1BRWnVZShZEmT8&usqp=CAU" alt="react" width="40" /> &nbsp;&nbsp;
+</p>
+
 
 
 ![Azkar's github stats](https://github-readme-stats.vercel.app/api?username=azkarmoulana&count_private=true&show_icons=true&include_all_commits=true)
