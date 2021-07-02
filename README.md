@@ -1,5 +1,5 @@
-<!-- <h1 align="center">Hi there!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Azkar</h1> -->
-<h1 align="center"><img src="https://github.com/azkarmoulana/azkarmoulana/blob/master/azkar-name.png"</h1> 
+<h1 align="center">Hi there!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Azkar</h1>
+<!-- <h1 align="center"><img src="https://github.com/azkarmoulana/azkarmoulana/blob/master/azkar-name.png"</h1>  -->
 <!-- ![alt text](https://github.com/azkarmoulana/azkarmoulana/blob/master/azkar-name.png)  -->
 
 
