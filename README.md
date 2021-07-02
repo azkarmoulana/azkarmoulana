@@ -15,6 +15,7 @@
 ***
 
 <p align="justify"> Ever since I wondered how can I change the world, I started building software to help the digital transformation and it gives me satisfaction when I write code to solve problems and impact millions of users around the globe. I'm a software engineer who's highly experienced in designing and developing end-to-end large enterprise-scale applications focusing on modern web technologies, performance, and cloud computing. I'm also a community organizer, public speaker, and mentor who actively helps the community to learn new things in technology. </p>
+
 ### My Tech Toolbox 🧰 
 
 <p align="left">
