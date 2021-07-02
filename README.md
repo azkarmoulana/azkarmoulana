@@ -1,7 +1,4 @@
 <h1 align="center"><img src="https://github.com/azkarmoulana/azkarmoulana/blob/master/azkar-name.png" width="300px"></h1>
-<!-- <h1 align="center"><img src="https://github.com/azkarmoulana/azkarmoulana/blob/master/azkar-name.png"</h1>  -->
-<!-- ![alt text](https://github.com/azkarmoulana/azkarmoulana/blob/master/azkar-name.png)  -->
-
 
 <p align='center'>
   Software Engineer 💻 <b>|</b> AWS Community Builder <b>|</b> ⚡ Serverless, AWS, Node.js, JavaScript <b>|</b> Speaker 
@@ -15,8 +12,10 @@
   <a href="https://dev.to/azkar_moulana"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
+***
 
-</div>
+<div style="text-align: justify"> Ever since I wondered how can I change the world, I started building software to help the digital transformation and it gives me satisfaction when I write code to solve problems and impact millions of users around the globe. I'm a software engineer who's highly experienced in designing and developing end-to-end large enterprise-scale applications focusing on modern web technologies, performance, and cloud computing. I'm also a community organizer, public speaker, and mentor who actively helps the community to learn new things in technology. </div>
+
 
 ![Azkar's github stats](https://github-readme-stats.vercel.app/api?username=azkarmoulana&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azkarmoulana&layout=compact&langs_count=10)
