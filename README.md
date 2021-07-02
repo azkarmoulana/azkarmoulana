@@ -1,27 +1,19 @@
-### Hi there !👋
+<!-- <h1 align="center">Hi there!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Azkar</h1> -->
+![alt text](https://github.com/azkarmoulana/azkarmoulana/blob/master/azkar-name.png) 
 
-I'm a full-stack Software Engineer who's highly experienced in designing and developing end-to-end enterprise scale SaaS applications focusing on modern web technologies, performance and cloud computing. I'm also a community organizer, public speaker, and a mentor who actively helps the community to learn new things in technology.
 
-<!--
-**azkarmoulana/azkarmoulana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+  Software Engineer 💻 <b>|</b> AWS Community Builder <b>|</b> ⚡ Serverless, AWS, Node.js, JavaScript <b>|</b> Speaker 
+</p>
 
-Here are some ideas to get you started:
+<p align='center'>
+  <a href="https://twitter.com/Azkar_moulana"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/azkarmoulana/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:azkar.moulana@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://azkarmoulana.medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://dev.to/azkar_moulana"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<i>Follow me:</i><br>
-
-<a href="https://www.linkedin.com/in/azkarmoulana/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.facebook.com/azkar.moulana" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://www.instagram.com/azkarmoulana/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://dev.to/azkar_moulana" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
 </div>
 
