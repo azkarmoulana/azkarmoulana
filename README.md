@@ -19,7 +19,7 @@
 ### Tools and Technologies:
 
 <p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="node-js" width="40"/>&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="node-js" width="50"/>&nbsp;&nbsp;
 <img src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" alt="javascript" height="40"/>&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/600px-Typescript_logo_2020.svg.png" alt="typescript" height="40" width="40"/> &nbsp;&nbsp;
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFtrvH4xqVbm-PtE67Q43OLp_Hepyf-u_sjw&usqp=CAU" alt="angular" width="40" />&nbsp;&nbsp;
