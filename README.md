@@ -28,6 +28,13 @@
 </p>
 
 <p align="left">
+<img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" alt="html" width="40"/>&nbsp;&nbsp;
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQulnz6YBuAJR2Mhu23faS3DfvtdhVtJEfcht_A0K3bCUFCnaSe_NtM5eY_O_MMnTmRm6c&usqp=CAU" alt="css" width="36"/>&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1024px-Sass_Logo_Color.svg.png" alt="sass" width="52"/>&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LESS_Logo.svg/1024px-LESS_Logo.svg.png" alt="less" width="63"/>&nbsp;&nbsp;
+</p>
+
+<p align="left">
 <img src="https://techvaish.com/images/icons/amazon.png" alt="aws" width="40"/>&nbsp;&nbsp;
 <img src="https://jvzoggel.files.wordpress.com/2018/09/serverless_logo.png" alt="serverless" width="120"/>&nbsp;&nbsp;
 </p>
