@@ -35,7 +35,7 @@
 </p>
 
 <p align="left">
-<img src="https://techvaish.com/images/icons/amazon.png" alt="aws" width="40"/>&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="40"/>&nbsp;&nbsp;
 <img src="https://jvzoggel.files.wordpress.com/2018/09/serverless_logo.png" alt="serverless" width="120"/>&nbsp;&nbsp;
 </p>
 
